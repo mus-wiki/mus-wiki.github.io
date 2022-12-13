@@ -1,0 +1,32 @@
+#+TITLE: mus-wiki.github.io
+#+SETUPFILE: ../themes/org/theme-bigblow-local.setup
+
+A website my medhackers, for medhackers :) 
+* About
+
+** About this site
+*** Ethics
+MUS-Wiki page is designed to adhere to the [[https://en.wikipedia.org/wiki/Hacker_ethic][hacker ethic]], with the most important rules being:
++ *All information should be free*
++ *Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race, sex, or position*
++ *Computers can change your life for the better*
+
+/Hacking does NOT refer to criminal activities, but in playfully doing something difficult, useful or not/
+
+This site purpose is to help you hack your way into the medical field, and to help others along your journey.
+
+Contributions are always welcomed.
+*** How to contribute
+Source code available at 
+
+
+* News
+** testing news section
+this section will be used to display news regarding the medical university of Sofia wiki
+
+
+* Notes
+
+** 3rd Year
++ [[file:Microbiology.html][Microbiology]] 
+
